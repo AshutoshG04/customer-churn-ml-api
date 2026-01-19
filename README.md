@@ -181,13 +181,10 @@ http://127.0.0.1:5000/predict
 ## 👤 Author
 
 **Ashutosh Ghodke**
-Electronics & Computer Engineering Undergraduate
-Aspiring Data Scientist | Machine Learning | Backend Development
-
-🔗 GitHub: [https://github.com/AshutoshG04](https://github.com/AshutoshG04)
 
 ---
 
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and feel free to fork or contribute!
+
